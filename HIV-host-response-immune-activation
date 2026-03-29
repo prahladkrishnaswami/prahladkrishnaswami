@@ -1,1 +1,48 @@
+# HIV Host Response — Persistent Immune Activation
 
+## Background
+Even in virologically suppressed HIV+ individuals on ART, 
+chronic immune activation persists — driving non-AIDS 
+comorbidities including cardiovascular disease, 
+neurodegeneration, and accelerated aging phenotypes. 
+The transcriptional basis of this persistent activation 
+remains incompletely understood.
+
+## Objective
+To characterize host transcriptional response in HIV+ 
+individuals using bulk RNA-seq DEG analysis, with a focus 
+on persistent immune activation signatures — interferon 
+signaling, NF-κB activation, and T cell exhaustion.
+
+## Methods
+- Bulk RNA-seq data from public GEO datasets
+- DEG analysis using DESeq2 in R
+- PPI network construction via STRINGdb + Cytoscape
+- Pathway enrichment via clusterProfiler (KEGG, Reactome, GO)
+- Hub gene identification using CytoHubba
+
+## Expected Key Pathways
+- Interferon stimulated genes (ISGs)
+- NF-κB signaling
+- T cell exhaustion markers (PD-1, TIM-3, LAG-3)
+- Inflammasome activation (NLRP3)
+- TNF and IL-6 signaling
+
+## Repository Structure
+├── data/
+├── scripts/
+│   ├── 01_preprocessing.R
+│   ├── 02_DEG_analysis.R
+│   ├── 03_enrichment.R
+│   └── 04_STRING_network.R
+├── results/
+│   ├── figures/
+│   └── tables/
+└── README.md
+
+## Status
+🔄 In progress — dataset selection and preprocessing
+
+## Tools & Packages
+R, DESeq2, clusterProfiler, STRINGdb, 
+ggplot2, pheatmap, Cytoscape, CytoHubba
