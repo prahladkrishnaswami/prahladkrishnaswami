@@ -59,7 +59,7 @@ Bulk RNA-seq analysis of host transcriptional response in HIV+ individuals — c
 ## Affiliations
 
 - SRM Institute of Science and Technology, Chennai
-- Laboratory of Mucosal Immunology & Infectious Diseases, University of Hyderabad
+- Laboratory of Molecular Immunology & Infectious Diseases, University of Hyderabad
 - Biosciences international Summer School, University of Manchester (July 2026)
 
 ---
