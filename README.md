@@ -1,7 +1,7 @@
 # Hi, I'm Prahlad Krishnaswami 👋
 
 🎓 B.Tech Biotechnology(specialization in genetic engineering) | SRM Institute of Science and Technology, Chennai  
-🔬 full time-onsite Researcher intern| Laboratory of Molecular Immunology & Infectious Diseases, University of Hyderabad  
+🔬 full time-onsite Researcher intern| Laboratory of Molecular Immunology & Infectious Diseases, University of Hyderabad (December 2024-Present) (Recurring, semester breaks)
 
 ---
 
